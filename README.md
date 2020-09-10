@@ -1,4 +1,4 @@
-## Dessert Pusher App (디저트 누르기 앱) 
+## :ice_cream: Dessert Pusher App (디저트 누르기 앱) :ice_cream:
 Udacity 과정 Lesson 4 실습 (링크 : https://www.udacity.com/) <br>
 This is the toy app for lesson 4 of the [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/6a155d63-8153-4a56-95cb-1dfdf06aa173).
 
