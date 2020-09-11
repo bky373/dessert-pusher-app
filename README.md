@@ -7,12 +7,13 @@ DessertPusher is a game about making desserts. Press the button, make a dessert,
 This app is for exploring the [Activity Lifecycle callback methods](https://developer.android.com/guide/components/activities/activity-lifecycle) and the [Lifecycle](https://developer.android.com/reference/android/arch/lifecycle/Lifecycle) object.
 <br>
 
-## Focused on: Activity Lifecycle 
- * Also Learned  
-   * Logging with Timber
+## :bulb: Focused on: Activity & Fragment Lifecycle :bulb:
+ * I've Learned
+   * Lifecycle States and Callbacks
    * LifecycleObserver
    * onSaveInstanceState and onRestoreInstanceState
    * Configuration Changes
+   * Logging with Timber
 
 ## Playing the App
 
