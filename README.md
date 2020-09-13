@@ -8,7 +8,7 @@ This app is for exploring the [Activity Lifecycle callback methods](https://deve
 <br>
 
 ## :bulb: Focused on: Activity & Fragment Lifecycle :bulb:
- * I've Learned
+ * I've Covered
    * Lifecycle States and Callbacks
    * LifecycleObserver
    * onSaveInstanceState and onRestoreInstanceState
